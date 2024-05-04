@@ -1,4 +1,4 @@
-# SmartPlace
+# SmartPlaces
 
 ## Proyecto de sitios inteligentes con ESP32 STEAMakers + arduinoblocks
 
